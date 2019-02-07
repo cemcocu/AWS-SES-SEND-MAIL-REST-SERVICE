@@ -8,5 +8,5 @@ In the AWS SES sandbox mode, FROM,TO,CC mail addresses have to be registered in 
 You can do it from AWS SES Console.
 
 If you want to send mail to all email address in the world,you can put your SES service out of the sandbox mode.
-I described how to do it in the link :  
-https://stackoverflow.com/questions/35946880/how-to-send-email-to-non-verified-email-address-using-aws-ses/50755555#50755555
+Here is the aws docs how to put it out of sandbox mode:
+https://docs.aws.amazon.com/en_us/ses/latest/DeveloperGuide/configure-sns-notifications.html
